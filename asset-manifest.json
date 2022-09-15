@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/sudkwld/Molla/static/css/main.c83c40e3.css",
+    "main.js": "/sudkwld/Molla/static/js/main.86c451d9.js",
+    "static/js/787.45558e6b.chunk.js": "/sudkwld/Molla/static/js/787.45558e6b.chunk.js",
+    "static/media/slick.svg": "/sudkwld/Molla/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/sudkwld/Molla/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/sudkwld/Molla/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "index.html": "/sudkwld/Molla/index.html",
+    "static/media/slick.woff": "/sudkwld/Molla/static/media/slick.295183786cd8a1389865.woff",
+    "main.c83c40e3.css.map": "/sudkwld/Molla/static/css/main.c83c40e3.css.map",
+    "main.86c451d9.js.map": "/sudkwld/Molla/static/js/main.86c451d9.js.map",
+    "787.45558e6b.chunk.js.map": "/sudkwld/Molla/static/js/787.45558e6b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c83c40e3.css",
+    "static/js/main.86c451d9.js"
+  ]
+}
